@@ -31,6 +31,7 @@ Click the following links to view the methods. Notes:
   - [SCRB-seq / mcSCRB-seq](https://teichlab.github.io/scg_lib_structs/methods_html/SCRB-seq.html)
   - [SPLiT-seq / microSPLiT](https://teichlab.github.io/scg_lib_structs/methods_html/SPLiT-seq.html)
   - [Drop-seq / Seq-Well](https://teichlab.github.io/scg_lib_structs/methods_html/Drop-seq.html)
+  - [CapSeq2026-Baronas](https://www.science.org/doi/10.1126/science.ady7227)
   - [scifi-RNA-seq](https://teichlab.github.io/scg_lib_structs/methods_html/scifi-RNA-seq.html)
   - [Microwell-seq](https://teichlab.github.io/scg_lib_structs/methods_html/Microwell-seq.html)
   - [BD Rhapsody](https://teichlab.github.io/scg_lib_structs/methods_html/BD_Rhapsody.html)
